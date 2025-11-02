@@ -31,8 +31,8 @@ Aqui você encontrará projetos usando diversas stacks — Alguns exemplos de te
 
 ```bash
 📂 meu-lab/
- ├── front-end/      # Projetos com HTML, CSS e JS
- ├── backend/        # Pequenas APIs e scripts com Node.js
- ├── estudos/        # Exercícios, desafios e testes
- ├── utils/          # Ferramentas e anotações
- └── README.md       # Este arquivo ✨
+ ├── 01- front-end/      # Projetos com HTML, CSS e JS
+ ├── 02- backend/        # Pequenas APIs e scripts com Node.js
+ ├── 03- estudos/        # Exercícios, desafios e testes
+ ├── 04- utils/          # Ferramentas e anotações
+ └── 05- README.md       # Este arquivo ✨
